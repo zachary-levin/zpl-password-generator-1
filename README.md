@@ -1,4 +1,19 @@
-# Password Generator Starter Code
+# Password Generator
+
+## Goal 
+The main goal of this project was to create a password generator that randomly generates a password under certain selected criteria.
+
+## What I learned
+In this project, I learned how to use window.prompt to notify users with windows. I also learned how to make functions return values.
+
+## Challenges of this assignment
+I definitely felt like I did not have enough time to work on this assignment as much as I would like to. I also struggled a lot with understanding how to get started and break down what I had to do in this assignment. With what I currently have, I feel like I only achieved the first and last parts of the acceptance criteria.
+
+## Link to live version
+Check out my password generator [here.](https://zachary-levin.github.io/zpl-password-generator-1/) 
+
+## Screenshot
+
 
 ## User Story
 AS AN employee with access to sensitive data
