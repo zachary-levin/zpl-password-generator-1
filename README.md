@@ -13,7 +13,7 @@ I definitely felt like I did not have enough time to work on this assignment as 
 Check out my password generator [here.](https://zachary-levin.github.io/zpl-password-generator-1/) 
 
 ## Screenshot
-![Password Generator screenshot](assets\css\Javascript-password-generator-screenshot.jpg)
+![Password Generator Screenshot](assets\css\Javascript-password-generator-screenshot.jpg)
 
 ## User Story
 AS AN employee with access to sensitive data
